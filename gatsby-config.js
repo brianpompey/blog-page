@@ -3,12 +3,12 @@ module.exports = {
     title: `Brian's Blog`,
     author: {
       name: `Brian Pompey`,
-      summary: `who lives and works in NYC and is willing to relocate.`,
+      summary: `who lives and works in NYC and is willing to relocate. This blog is a wonderful project`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: ``,
+      twitter: `brianpompey`,
     },
   },
   plugins: [
