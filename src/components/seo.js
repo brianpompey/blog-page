@@ -16,7 +16,7 @@ const Seo = ({ description, lang, meta, title }) => {
       query {
         site {
           siteMetadata {
-            title
+            title 
             description
             social {
               twitter
