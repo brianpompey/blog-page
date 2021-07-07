@@ -3,7 +3,7 @@ module.exports = {
     title: `Brian's Blog`,
     author: {
       name: `Brian Pompey`,
-      summary: `who lives and works in NYC and is willing to relocate! This blog is a wonderful project to showcase some of my content on tech`,
+      summary: `who lives and works in NYC and is happy to relocate! This blog is a wonderful project to showcase some of my content on tech`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
