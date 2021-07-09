@@ -5,7 +5,7 @@ module.exports = {
       name: `Brian Pompey`,
       summary: `who lives and works in NYC and is happy to relocate! This blog is a wonderful project to showcase some of my content on tech`,
     },
-    description: `A starter blog demonstrating what Gatsby can do. not sure`,
+    description: `My personal blog to display my findings`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `brianpompey`,
