@@ -1,0 +1,13 @@
+---
+title: Finally Graduated…
+date: "2021-02-20T22:12:03.284Z"
+---
+What’s it like to graduate from coding bootcamp mid-Corona?
+Wow, I can finally say that I have completed the entire Flatiron School curriculum and can now refer to myself as an alumni and a Software Engineer!
+Wait, can I?
+I don’t have a job yet, so I’m not technically a professional developer yet. And I’m not even that good so who am I to look at myself as a pro, a part of the vast community of people who created some of our favorite sites/apps like Twitter, Netflix, Facebook, etc??? I can’t do any of that.
+Well true, but they all started somewhere right? I think I have the unhealthy habit (and I’m sure lots of other beginners and maybe even experts in the field do as well) of being extremely negative about my own abilities and maybe for once I can try to be a little more congratulatory and positive.
+Ok here it goes…. I suck
+Just kidding….I am sooooooo much better of a programmer than I was a couple of years ago when I first bought a Macbook Air at Best Buy, bought the highest rated Python course on Udemy and decided that I was gonna code my way to a fortune with ideas about all the different apps and sites I would build that would eventually make me a millionaire. I ended up quitting on that course after a few months because the concepts were just too confusing and I thought I would never figure out any of this code stuff out.
+Fast forward to now and look at me! I understand things!!!! HTML, CSS, Ruby, Rails, JavaScript, React, Redux… I think I’ll even take a peek at my Python notes and see if it all still looks like gibberish. For now, I can admit that I’m proud to be able to say I’ve accomplished something and excited to learn with less restriction while hopefully pushing into a successful career for years to come.
+And that bring me to the next part. COVID 19. This crappy year has set things off the rails in so many ways for millions of people. And for people hoping to launch into new careers where being able to network and connect with people is important it remains to be seen how I will be able to overcome these hurdles. Thankfully so far the career services portion of my boot camp has been extremely helpful and promising. Hopefully I’ll be able to come back with great news about my new job very soon! However, until then I hope to be able to give more regular updates about the process here as we grow together.
