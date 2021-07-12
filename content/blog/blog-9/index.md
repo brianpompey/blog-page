@@ -1,0 +1,10 @@
+---
+title: React????
+date: "2020-11-16T22:12:03.284Z"
+---
+I was hoping as I got closer to the end of the curriculum I’d feel more and more like a real programmer and my knowledge would feel more secure. But sheesh the imposter syndrome is still super real!
+I’ve always seen senior devs ‘joke’ on social media that they STILL don’t know what they’re doing but I can see that in this field the learning never stops. There’s always more in depth information to grasp and that doesn’t even include the fact that while you’re spending your time stressfully learning a new aspect of a language, there’s a team of engineers somewhere working to diligently to update and change it!!! Seriously there’s no way you can ever keep up.
+For example, we’re learning about Reactjs using class constructors, meanwhile the whole industry swears by the use of React Hooks instead and yet we have to make sure we know the former. Or the fact that we learn Ruby on Rails as a backend while Python has emerged as the ‘hot language’ in recent years. It’s amazing the way things change in our field. Ha, at least I feel like I can call it that now: “Our” field.
+For my final project, I had to create a ‘full-stack’ project using Ruby on Rails on the backend and React/Redux as the front end. While pressed for time, the best idea I could think of was to translate my previous Vanilla JS project into the React Framework. It was very difficult but I found it interesting to notice my growth in such a short span of time from the last project to this one.
+I’m grateful for the experience of Flatiron School. No matter how many down moments I had, they generally were always followed by wonderful ‘up’ moments and in the end, I’ve gained a valuable skill that if sharpened and worked on, will lead me down the path of a wonderful and lucrative career.
+So thank you Flatiron. I will be a thankful and helpful member of your alumni community for years to come.
