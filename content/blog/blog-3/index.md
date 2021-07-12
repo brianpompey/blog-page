@@ -1,0 +1,8 @@
+---
+title: Getting there…
+date: "2020-03-07T22:12:03.284Z"
+---
+This bootcamp process has definitely taken longer than expected. I’ve experienced many ups and downs, periods of high productivity and stretches where I wouldn’t look at anything “code” related for WEEKS! I know, that’s definitely not the best path to success in this field and I’ve got to do better.
+To be honest, I’ve found myself deep in the pits of self-doubt so often that I wondered whether or not this was the right field for me. Or if I’m just not “good” at coding. I’m sure many beginners or even experienced programmers have had that feeling. You envision your life as a big time coder, creating projects, making tons of money and being the go-to master that all your friends and colleagues approach with their new billion dollar app idea. HA. Then the reality hits. I’ve got to do the work first. I have to learn all this crap to do something as simple as making a database in SQL or even understanding how routes work in Sinatra. And this is only the beginning! Whew.
+But in my case, I had to make a decision to make a better life for myself and my family, and no matter how many tears and head bangings on the table, I would achieve my goals…
+So I’m getting there. Slowly, but I’m getting there. As I head into my Sinatra Portfolio Project, I’m hoping to get that supercharge of motivation I got after the last project. And you know what? Writing this blog was pretty darn therapeutic to be honest. Think I’ll do these more often 😅
