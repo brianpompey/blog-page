@@ -2,11 +2,13 @@
 title: GCP Relational Databases
 date: "2021-07-05T22:12:03.284Z"
 ---
-Gcloud or Cloud SDK is the command Line interface for interacting with Google Cloud Resources. Similar to the terminal that you may use in your code editor, Gcloud can be used as an alternative to the Cloud Console in GCP to manage resources like : Compute Engine, Cloud SQL, Kubernetes, Cloud DataProc, Cloud DNS, Cloud Deployment manager and more.. 
+Like we discussed before, there are two types of relational databases, OLTP (Online transaction processing) and OLAP (Online Analytics Processing). 
 
-Most GCP services can be managed from CLI using GCloud, such as Compute Engine VMs, Managed Instance Groups, Databases and more. You can create, delete, update, and read existing resources and perform actions like deployments as well. 
+OLTP Relational Databases are for applications where large numbers of users make large numbers of small transactions. Most traditional applications will fall into this category, such as CRM, e-commerce, and banking applications. There are 2 Google Managed Services that are recommended for OLTP Databases: Cloud SQL and Cloud Spanner. Cloud SQL supports PostgreSQL, MySQL and SQL server for regional databases up to a few TBs. Cloud Spanner has unlimited scale (multiple Pbs) and 99.999% availability for global applications with horizontal scaling.
 
-Remember: Some GCP services have specific CLI tools. For example, Cloud Storage uses “gsutil”, Cloud BigQuery uses “bq”, Cloud BigTable uses “cbt”, and Google Kubernetes Engine uses “kubectl”. 
+OLAP Relational Databases are for applications allowing users to analyze petabytes of data. For example, this can be used for reporting applications, data warehouses, business intelligence applications or analytics systems. Data is consolidated from multiple (transactional) databases. The recommended GCP managed service for OLAP DBs is BigQuery, which is a petabyte scale distributed data warehouse.
 
-GCloud is part of the Google Cloud SDK, or a set of tools that you can use to manage resources and applications hosted on Google Cloud. You can also use Cloud Shel if you don’t want to install on your local machine. This can be found at the top of the page in GCP. 
+
+OLAP and OLTP use similar data structures, but a very different approach in how data is stored. OLTP databases use row storage, where each table row is stored together. It is efficient for processing small transactions. OLAP databases use columnal storage, where each table column is stored together. There is high compression, which helps to store petabytes of data efficiently.
+
 
