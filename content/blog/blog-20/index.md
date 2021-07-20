@@ -1,6 +1,6 @@
 ---
 title: GCP Pub/Sub
-date: "2021-07-06T22:12:03.284Z"
+date: "2021-07-08T22:12:03.284Z"
 ---
 Like we discussed before, there are two types of relational databases, OLTP (Online transaction processing) and OLAP (Online Analytics Processing). 
 
