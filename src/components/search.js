@@ -1,8 +1,10 @@
 import React from 'react';
 
 
-const Search = () => {
-    return <div>Hello World</div>
+const SearchBar = () => {
+    <form action="/" method="get">
+        <label htmlFor="header-search"
+    </form>
 }
 
-export default Search;
+export default SearchBar;
