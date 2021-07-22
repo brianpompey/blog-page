@@ -12,6 +12,7 @@ const SearchBar = () => {
             placeholder="Search Blog Posts"
             name="s"
         />
+        <button type="submit">Search</button>
     </form>
 }
 
