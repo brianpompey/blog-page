@@ -9,3 +9,5 @@ Pwd --- print working directory. Tells where you are currently located.
 
 ls --- See all of the files and your present location.
 
+cd [folder name] --- directs you to the given folder.
+
