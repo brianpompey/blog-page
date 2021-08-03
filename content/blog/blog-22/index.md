@@ -13,3 +13,4 @@ cd [folder name] --- directs you to the given folder.
 
 clear --- clears terminal window.
 
+cd .. --- move up one directory.
