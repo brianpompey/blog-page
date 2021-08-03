@@ -11,3 +11,5 @@ ls --- See all of the files and your present location.
 
 cd [folder name] --- directs you to the given folder.
 
+clear --- clears terminal window.
+
