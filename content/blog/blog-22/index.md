@@ -16,3 +16,5 @@ cd [folder name] --- directs you to the given folder.
 clear --- clears terminal window.
 
 cd .. --- move up one directory.
+
+mkdir [name ] --- creates a new directory using given name.
