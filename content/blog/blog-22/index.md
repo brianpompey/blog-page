@@ -9,6 +9,8 @@ Pwd --- print working directory. Tells where you are currently located.
 
 ls --- See all of the files and your present location.
 
+ls -a --- lists all contents in the working directory including hidden files and directories.
+
 cd [folder name] --- directs you to the given folder.
 
 clear --- clears terminal window.
