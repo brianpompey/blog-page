@@ -22,3 +22,5 @@ mkdir [name ] --- creates a new directory using given name.
 rm [name ] --- remove given file.
 
 touch [name ] --- creates a new file using name inside the working directory.
+
+cp [name ] [directory ] --- copy file to directory.
