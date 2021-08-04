@@ -18,3 +18,5 @@ clear --- clears terminal window.
 cd .. --- move up one directory.
 
 mkdir [name ] --- creates a new directory using given name.
+
+rm [name ] --- remove given file.
