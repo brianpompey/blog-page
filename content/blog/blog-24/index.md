@@ -10,3 +10,5 @@ Floating Point (float) --- Numbers with a decimal point
 
 String (str) --- Ordered sequence of characters
 
+List (list) --- Ordered sequence of objects
+
