@@ -6,3 +6,4 @@ Today we'll review some of the key data types in Python. Coming from a Ruby back
 
 Integer (int) --- Whole Numbers
 
+Floating Point (float) --- Numbers with a decimal point
