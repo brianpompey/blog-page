@@ -14,3 +14,5 @@ List (list) --- Ordered sequence of objects
 
 Dictionaries (dict) --- Unordered Key:Value Pairs
 
+Tuples (tup) --- Ordered immutable sequence of objects
+
