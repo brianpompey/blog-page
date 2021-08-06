@@ -16,3 +16,5 @@ Dictionaries (dict) --- Unordered Key:Value Pairs
 
 Tuples (tup) --- Ordered immutable sequence of objects
 
+Sets (set) --- Unordered collection of unique objects 
+
