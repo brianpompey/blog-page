@@ -12,3 +12,5 @@ String (str) --- Ordered sequence of characters
 
 List (list) --- Ordered sequence of objects
 
+Dictionaries (dict) --- Unordered Key:Value Pairs
+
