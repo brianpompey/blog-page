@@ -18,3 +18,4 @@ Tuples (tup) --- Ordered immutable sequence of objects
 
 Sets (set) --- Unordered collection of unique objects 
 
+Booleans (bool) --- Logic, True or False
