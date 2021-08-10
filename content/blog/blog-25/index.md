@@ -9,3 +9,5 @@ Today, we'll go over the important comparison operators in Python...
 != Inequality
 > Greater
 < Less Than
+>= Greater than or equal to
+<= Less than or equal to
