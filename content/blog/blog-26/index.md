@@ -21,4 +21,13 @@ SELECT name,age FROM people;
 
 Next, let's see how we retrieve the names of all people who are over 18 years old.
 
-SELE
+SELECT name FROM people where age>18;
+
+---------------------------------------
+
+Now what if I want the names of people older than 21 and weighing less than 180 pounds?
+
+SELECT name FROM people where age>21 and weight<180;
+
+-----------------------------------------
+
