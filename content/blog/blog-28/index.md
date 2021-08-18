@@ -1,5 +1,5 @@
 ---
-title: 
+title: Python Projects
 date: "2021-03-09T22:12:03.284Z"
 ---
 
