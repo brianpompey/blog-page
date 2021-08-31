@@ -65,7 +65,7 @@ ys = yt.streams.get_highest_resolution()
 
 -----------------------------
 
-We set a variable to save the stream with the highest video quality and next we download!
+We set a variable to save the stream with the highest video quality and next we download and optionally choose out location!
 
 -----------------------------
 
