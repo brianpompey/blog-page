@@ -28,19 +28,28 @@ yt = YouTube(link)
 
 Next, we'll print some information to be displayed once the youtube video is accessed.
 
-............................
+-----------------------------
 #Title of the video
+
 print("Title: ",yt.title)
 
+
 #number of views
+
 print("Number of views: ",yt.views)
 
+
 #length of video
+
 print("Length of video: ",yt.length,"seconds")
 
+
 #video description
+
 print("Description: ",yt.description)
 
+
 #rating
+
 print("Ratings: ",yt.rating)
-............................
+-----------------------------
