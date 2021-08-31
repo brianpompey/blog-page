@@ -21,7 +21,9 @@ Next, we'll create a variable "link", where the user input for the Youtube link 
 
 -----------------------------
 link = input("Enter the link: ")
+-----------------------------
 
+-----------------------------
 yt = YouTube(link)
 -----------------------------
 
