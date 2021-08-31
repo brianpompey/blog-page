@@ -13,6 +13,7 @@ To start, we're using a Python library called pytube.
 
 -----------------------------
 from pytube import YouTube
+
 -----------------------------
 Pytube is a lightweight Python library for downloaded Youtube videos. 
 
@@ -21,10 +22,9 @@ Next, we'll create a variable "link", where the user input for the Youtube link 
 
 -----------------------------
 link = input("Enter the link: ")
------------------------------
 
------------------------------
 yt = YouTube(link)
+
 -----------------------------
 
 
@@ -49,6 +49,7 @@ print("Description: ",yt.description)
 
 
 print("Ratings: ",yt.rating)
+
 -----------------------------
 
 
