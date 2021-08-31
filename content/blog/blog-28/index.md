@@ -12,7 +12,7 @@ First up, I created a simple Youtube Video Downloader script. Many of us grew up
 To start, we're using a Python library called pytube.
 
 -----------------------------
-from pytube import YouTube
+        from pytube import YouTube
 
 -----------------------------
 Pytube is a lightweight Python library for downloaded Youtube videos. 
@@ -21,9 +21,9 @@ Next, we'll create a variable "link", where the user input for the Youtube link 
 
 
 -----------------------------
-link = input("Enter the link: ")
+        link = input("Enter the link: ")
 
-yt = YouTube(link)
+        yt = YouTube(link)
 
 -----------------------------
 
@@ -32,23 +32,23 @@ Next, we'll print some information to be displayed once the youtube video is acc
 
 -----------------------------
 
-print("Title: ",yt.title)
+        print("Title: ",yt.title)
 
 
 
-print("Number of views: ",yt.views)
+        print("Number of views: ",yt.views)
 
 
 
-print("Length of video: ",yt.length,"seconds")
+        print("Length of video: ",yt.length,"seconds")
 
 
 
-print("Description: ",yt.description)
+        print("Description: ",yt.description)
 
 
 
-print("Ratings: ",yt.rating)
+        print("Ratings: ",yt.rating)
 
 -----------------------------
 
@@ -56,7 +56,7 @@ print("Ratings: ",yt.rating)
 And lastly, to work on the streams. First so we can get an understanding of what's going on, lets print them all out.
 
 -----------------------------
-print(yt.streams)
+        print(yt.streams)
 
 -----------------------------
 
@@ -64,7 +64,7 @@ This gives us a view of all available streams to download including audio and vi
 
 -----------------------------
 
-ys = yt.streams.get_highest_resolution()
+        ys = yt.streams.get_highest_resolution()
 
 -----------------------------
 
@@ -72,10 +72,10 @@ We set a variable to save the stream with the highest video quality and next we 
 
 -----------------------------
 
-ys.download()
+        ys.download()
 
-or
+        or
 
-ys.download(LOCATION)
+        ys.download(LOCATION)
 
 -----------------------------
