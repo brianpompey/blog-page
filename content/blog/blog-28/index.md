@@ -20,10 +20,10 @@ Pytube is a lightweight Python library for downloaded Youtube videos.
 Next, we'll create a variable "link", where the user input for the Youtube link will be saved. Also another variable "yt" which will take the link variable and pass it through the Youtube library.
 
 
-............................
+-----------------------------
 link = input("Enter the link: ")
 yt = YouTube(link)
-............................
+-----------------------------
 
 
 Next, we'll print some information to be displayed once the youtube video is accessed.
