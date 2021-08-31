@@ -53,3 +53,31 @@ print("Description: ",yt.description)
 
 print("Ratings: ",yt.rating)
 -----------------------------
+
+
+And lastly, to work on the streams. First so we can get an understanding of what's going on, lets print them all out.
+
+-----------------------------
+print(yt.streams)
+
+-----------------------------
+
+This gives us a view of all available streams to download including audio and video only. We can filter them out and access which ones we want but for the purpose of this we'll keep this simple. 
+
+-----------------------------
+
+ys = yt.streams.get_highest_resolution()
+
+-----------------------------
+
+We set a variable to save the stream with the highest video quality and next we download!
+
+-----------------------------
+
+ys.download()
+
+or
+
+ys.download(LOCATION)
+
+-----------------------------
