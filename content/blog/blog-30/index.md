@@ -3,7 +3,11 @@ title: React Native --- Pressable vs Touchable?
 date: "2022-01-01T22:12:03.284Z"
 ---
 
-Over the last few years, I've spent a lot of time playing around with Reactjs and one day I stumbled upon React Native. I think everybody who aspires to be a developer in recent times has imagined being a big time app developer, working on some of the apps that we use and enjoy everyday. 
+Over the last few years, I've spent a lot of time playing around with Reactjs and one day I stumbled upon React Native. I think everybody who aspires to be a developer in recent times has imagined being a big time app developer, working on some of the apps that we use and enjoy everyday. Back then, it seemed so simple; before I knew about different languages and backend vs frontend, I thought that's what a developer was and that's a big part of what brought me to the field.
+
+I haven't taken the leap yet to learn Swift, Kotlin or any of the Native app development languages. But as I am already pretty comfortable with React, I figured the best entry point for me would be React-Native, so that's why we're here. I've already worked on some personal and portfolio projects so far so I wouldn't call myself a COMPLETE beginner, but as we know about learning, it never ends so I know I've only really scratched the surface.
+
+Today I'm gonna discuss one of the most aspects of a mobile application -- the things that we have to press or touch or click. When dealing with the web, we're accustomed to creating and styling buttons, but with modern mobile apps, there is so much more functionality that must be considered, and React gives us some options, specifically Pressable and Touchable.
 
 -----------------------------
         from pytube import YouTube
