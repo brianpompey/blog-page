@@ -13,72 +13,7 @@ When building an application with React Native, the goal is for the user to have
 
 First we used the Touchable component. Touchable components capture touch gestures and provide feedback when the gesture is recognized. React Native provides four built in versions of the Touchable component: TouchableHighlight, TouchableNativeFeedback, TouchableOpacity, and TouchableWithoutFeedback. TouchableHighlights are similar to buttons on the web and darken when clicked. TouchableNativeFeedback uses its own drawable state to display touch feedback on Android. TouchableOpacity gets lighter when clicked. TouchableWithoutFeedback handles the touch gesture without any feedback. 
 
+Pressable was introduced for React Native 0.63 as a new way to handle touch. Pressable components are "smarter" than Touchable ones, and can detect different stages of press interaction on any of its defined children, similar to lifecycle methods. When a Pressable component is "pressed", the onPressIn method is activated. If the finger stays on the pressable for longer than 500ms, the onLongPress method is activated. When the pressable is released, the onPressOut method is activated. 
 
------------------------------
-        from pytube import YouTube
+Pressable components have all the functionality of Touchable ones without the complicated options, so it is a better option. 
 
------------------------------
-Pytube is a lightweight Python library for downloaded Youtube videos. 
-
-Next, we'll create a variable "link", where the user input for the Youtube link will be saved. Also another variable "yt" which will take the link variable and pass it through the Youtube library.
-
-
------------------------------
-        link = input("Enter the link: ")
-
-        yt = YouTube(link)
-
------------------------------
-
-
-Next, we'll print some information to be displayed once the youtube video is accessed.
-
------------------------------
-
-        print("Title: ",yt.title)
-
-
-
-        print("Number of views: ",yt.views)
-
-
-
-        print("Length of video: ",yt.length,"seconds")
-
-
-
-        print("Description: ",yt.description)
-
-
-
-        print("Ratings: ",yt.rating)
-
------------------------------
-
-
-And lastly, to work on the streams. First so we can get an understanding of what's going on, lets print them all out.
-
------------------------------
-        print(yt.streams)
-
------------------------------
-
-This gives us a view of all available streams to download including audio and video only. We can filter them out and access which ones we want but for the purpose of this we'll keep this simple. 
-
------------------------------
-
-        ys = yt.streams.get_highest_resolution()
-
------------------------------
-
-We set a variable to save the stream with the highest video quality and next we download and optionally choose out location!
-
------------------------------
-
-        ys.download()
-
-        or
-
-        ys.download(LOCATION)
-
------------------------------
