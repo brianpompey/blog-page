@@ -11,6 +11,8 @@ Today I'm gonna discuss one of the most aspects of a mobile application -- the t
 
 When building an application with React Native, the goal is for the user to have a seamless experience that comes as close as possible to "native", meaning an app that was built with Swift for ios or Kotlin for Android. The goal is to avoid the "tells" or obvious clues that prove it was built using an alternate language, and that is why React constantly updates with new built in functionality to improve on this. 
 
+First we used the Touchable component. Touchable components capture touch gestures and provide feedback when the gesture is recognized. React Native provides four built in versions of the Touchable component: TouchableHighlight, TouchableNativeFeedback, TouchableOpacity, and TouchableWithoutFeedback. TouchableHighlights are similar to buttons on the web and darken when clicked. TouchableNativeFeedback uses its own drawable state to display touch feedback on Android. TouchableOpacity gets lighter when clicked. TouchableWithoutFeedback handles the touch gesture without any feedback. 
+
 
 -----------------------------
         from pytube import YouTube
