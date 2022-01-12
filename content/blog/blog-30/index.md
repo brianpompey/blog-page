@@ -9,6 +9,9 @@ I haven't taken the leap yet to learn Swift, Kotlin or any of the Native app dev
 
 Today I'm gonna discuss one of the most aspects of a mobile application -- the things that we have to press or touch or click. When dealing with the web, we're accustomed to creating and styling buttons, but with modern mobile apps, there is so much more functionality that must be considered, and React gives us some options, specifically Pressable and Touchable.
 
+When building an application with React Native, the goal is for the user to have a seamless experience that comes as close as possible to "native", meaning an app that was built with Swift for ios or Kotlin for Android. The goal is to avoid the "tells" or obvious clues that prove it was built using an alternate language, and that is why React constantly updates with new built in functionality to improve on this. 
+
+
 -----------------------------
         from pytube import YouTube
 
